@@ -7,7 +7,7 @@ The goal of this project is to help decision-makers monitor call performance, id
 ---
 
 ## 🖼️ Dashboard Preview
-<img src="Icons\screenshot_dashboard.PNG" width="70%"> 
+<img src="screenshot_dashboard.PNG" width="70%"> 
 
 ---
 
