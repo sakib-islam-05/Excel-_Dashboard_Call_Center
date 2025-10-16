@@ -7,7 +7,7 @@ The goal of this project is to help decision-makers monitor call performance, id
 ---
 
 ## 🖼️ Dashboard Preview
-<img src="D:\Excel_Data_Analytics_Course\Sales and Marketing Call Center\Icons\screenshot_dashboard.PNG" width="70%"> 
+<img src="..\Icons\screenshot_dashboard.PNG" width="70%"> 
 
 ---
 
